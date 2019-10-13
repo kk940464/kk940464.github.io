@@ -30,4 +30,4 @@ CONDITION RIGHT NOW:
 >Doing Nothing
 
 
-:smiley: :smiley: :satisfied:
+:smiley: :smiley: 
