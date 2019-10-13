@@ -17,7 +17,7 @@ PHONE-8851601031
 
 
 
-![IIT JAMMU ](https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/GSoC-icon.svg/1200px-GSoC-icon.svg.png)
+![IIT JAMMU ](https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/GSoC-icon.svg/500px-GSoC-icon.svg.png)
 
 
 
